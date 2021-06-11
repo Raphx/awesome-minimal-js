@@ -1,4 +1,4 @@
-# Awesome No JS
+# Awesome Minimal JS
 
 A curated list of web development techniques that rely less on JavaScript.
 
