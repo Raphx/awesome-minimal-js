@@ -11,3 +11,7 @@ A curated list of web development techniques that rely less on JavaScript.
   - [Astro](https://astro.build)
   - [Marko](https://markojs.com)
   - [Stimulus](https://stimulus.hotwire.dev)
+
+- Philosophy:
+
+  - [Vanilla JS](http://vanilla-js.com)
