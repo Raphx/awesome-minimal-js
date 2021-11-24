@@ -4,7 +4,7 @@ A curated list of web development techniques that rely less on JavaScript.
 
 - Server-side:
 
-  - [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view)
+  - [Phoenix LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
 
 - Client-side:
 
