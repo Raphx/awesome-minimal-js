@@ -10,6 +10,7 @@ A curated list of web development techniques that rely less on JavaScript.
 
   - [Alpine.js](https://alpinejs.dev)
   - [Astro](https://astro.build)
+  - [htmx](https://htmx.org)
   - [Marko](https://markojs.com)
   - [Stimulus](https://stimulus.hotwire.dev)
 
