@@ -11,9 +11,7 @@ A curated list of web development techniques that rely less on JavaScript.
 - Client-side:
 
   - [Alpine.js](https://alpinejs.dev)
-  - [Astro](https://astro.build)
   - [htmx](https://htmx.org)
-  - [Marko](https://markojs.com)
   - [Hotwire Stimulus](https://stimulus.hotwire.dev)
 
 - Philosophy:
